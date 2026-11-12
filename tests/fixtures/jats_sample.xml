@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SYNTHETIC TEST FIXTURE (JATS-style full text). Invented content for offline tests only. -->
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front><article-meta><title-group><article-title>[TEST FIXTURE] Synthetic full text</article-title></title-group></article-meta></front>
+  <body>
+    <sec><title>1. Introduction</title><p>This invented introduction explains why the fictional condition matters for the simulated district and its health system.</p></sec>
+    <sec><title>Materials and Methods</title><p>A simulated cross-sectional survey was carried out among 250 invented participants using a structured questionnaire.</p></sec>
+    <sec><title>Results</title><p>The invented mean value was higher in the fictional rural group than in the urban group.</p></sec>
+    <sec><title>Discussion</title><p>The simulated results are discussed here at some length for the test.</p>
+      <sec><title>Limitations</title><p>A limitation of this synthetic study is its small sample size and single-centre design.</p></sec>
+    </sec>
+    <sec><title>Conclusions</title><p>The invented conclusion states that more simulated research is needed in the fictional district.</p></sec>
+    <sec><title>Funding</title><p>This funding statement is invented and must be skipped by the parser during processing.</p></sec>
+  </body>
+  <back><ref-list><ref><mixed-citation>Invented reference that must never appear in the parsed sections.</mixed-citation></ref></ref-list></back>
+</article>

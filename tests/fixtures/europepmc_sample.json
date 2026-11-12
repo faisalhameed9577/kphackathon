@@ -1,0 +1,46 @@
+{
+  "_comment": "SYNTHETIC TEST FIXTURE: invented records for offline tests. Not real papers. Never shown to users.",
+  "version": "6.9",
+  "hitCount": 4,
+  "resultList": {
+    "result": [
+      {
+        "id": "90000001", "source": "MED", "pmid": "90000001", "pmcid": "PMC9000001",
+        "doi": "10.0000/TEST.001",
+        "title": "[TEST FIXTURE] Glycaemic control in a fictional rural district: a synthetic cross-sectional study",
+        "authorString": "Testauthor A, Fixture B, Sample G, Mock D.",
+        "authorList": {"author": [{"fullName": "Testauthor A"}, {"fullName": "Fixture B"}, {"fullName": "Sample G"}, {"fullName": "Mock D"}]},
+        "journalInfo": {"yearOfPublication": 2021, "journal": {"title": "Journal of Synthetic Testing"}},
+        "pubYear": "2021",
+        "abstractText": "<h4>Background</h4><p>Synthetic background sentence about glycaemic control.</p><h4>Methods</h4><p>A cross-sectional survey of 250 participants was simulated in a fictional district.</p><h4>Results</h4><p>Mean HbA1c was higher in the fictional rural group.</p>",
+        "isOpenAccess": "Y", "inEPMC": "Y"
+      },
+      {
+        "id": "90000003", "source": "MED", "pmid": "90000003",
+        "title": "[TEST FIXTURE] Prospective cohort of simulated outpatients with fictional hypertension",
+        "authorString": "Synthetic Study Group.",
+        "journalInfo": {"yearOfPublication": 2023, "journal": {"title": "Synthetic Cohort Letters"}},
+        "pubYear": "2023",
+        "abstractText": "This invented prospective cohort followed 1,200 simulated patients.",
+        "isOpenAccess": "N", "inEPMC": "N"
+      },
+      {
+        "id": "PMC9000002", "source": "PMC", "pmcid": "PMC9000002", "pmid": "90000004", "doi": "10.0000/test.004",
+        "title": "[TEST FIXTURE] Qualitative interviews with fictional community health workers",
+        "authorString": "Qualitative Q, Interview I.",
+        "journalInfo": {"yearOfPublication": 2022, "journal": {"title": "Open Synthetic Health"}},
+        "pubYear": "2022",
+        "abstractText": "Twelve in-depth interviews were simulated. Themes included workload and training.",
+        "isOpenAccess": "Y", "inEPMC": "Y"
+      },
+      {
+        "id": "PPR9000005", "source": "PPR", "doi": "10.0000/test.preprint.005",
+        "title": "[TEST FIXTURE] A synthetic preprint that has not been peer reviewed",
+        "authorString": "Preprint P.",
+        "pubYear": "2024",
+        "abstractText": "An invented preprint abstract for testing.",
+        "isOpenAccess": "N", "inEPMC": "N"
+      }
+    ]
+  }
+}

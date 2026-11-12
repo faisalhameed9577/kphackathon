@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# Local data (databases, vectors, downloaded papers, reports)
+data/*.db
+data/chroma_db/*
+data/papers/*
+data/reports/*
+!data/chroma_db/.gitkeep
+!data/papers/.gitkeep
+!data/reports/.gitkeep
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

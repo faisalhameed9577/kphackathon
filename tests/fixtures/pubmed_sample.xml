@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  SYNTHETIC TEST FIXTURE. These records are INVENTED so that automated tests can run
+  without network access. They are NOT real papers and must never be shown to users.
+  Identifiers use reserved/fake ranges (PMID 9000000x, DOI prefix 10.0000).
+-->
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE">
+      <PMID Version="1">90000001</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Internet"><PubDate><Year>2021</Year><Month>Mar</Month></PubDate></JournalIssue>
+          <Title>Journal of Synthetic Testing</Title>
+        </Journal>
+        <ArticleTitle>[TEST FIXTURE] Glycaemic control in a fictional rural district: a <i>synthetic</i> cross-sectional study</ArticleTitle>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Synthetic background sentence about glycaemic control.</AbstractText>
+          <AbstractText Label="METHODS">A cross-sectional survey of 250 participants was simulated in a fictional district.</AbstractText>
+          <AbstractText Label="RESULTS">Mean HbA1c was higher in the fictional rural group (p &lt; 0.05).</AbstractText>
+          <AbstractText Label="CONCLUSIONS">The simulated data suggest follow-up is needed. A limitation is the small sample size.</AbstractText>
+        </Abstract>
+        <PublicationTypeList><PublicationType UI="D016428">Journal Article</PublicationType><PublicationType UI="D016449">Randomized Controlled Trial</PublicationType></PublicationTypeList>
+        <AuthorList>
+          <Author><LastName>Testauthor</LastName><ForeName>Alpha</ForeName><Initials>A</Initials></Author>
+          <Author><LastName>Fixture</LastName><ForeName>Beta</ForeName><Initials>B</Initials></Author>
+          <Author><LastName>Sample</LastName><ForeName>Gamma</ForeName><Initials>G</Initials></Author>
+          <Author><LastName>Mock</LastName><ForeName>Delta</ForeName><Initials>D</Initials></Author>
+        </AuthorList>
+      </Article>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">90000001</ArticleId>
+        <ArticleId IdType="doi">10.0000/test.001</ArticleId>
+        <ArticleId IdType="pmc">PMC9000001</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE">
+      <PMID Version="1">90000002</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print"><PubDate><MedlineDate>2019 Jan-Feb</MedlineDate></PubDate></JournalIssue>
+          <Title>Annals of Fixture Medicine</Title>
+        </Journal>
+        <ArticleTitle>[TEST FIXTURE] A synthetic record that has no abstract at all</ArticleTitle>
+        <AuthorList>
+          <Author><LastName>Nobody</LastName><Initials>N</Initials></Author>
+        </AuthorList>
+      </Article>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList><ArticleId IdType="pubmed">90000002</ArticleId></ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE">
+      <PMID Version="1">90000003</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print"><PubDate><Year>2023</Year></PubDate></JournalIssue>
+          <Title>Synthetic Cohort Letters</Title>
+        </Journal>
+        <ArticleTitle>[TEST FIXTURE] Prospective cohort of simulated outpatients with fictional hypertension</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.0000/test.003</ELocationID>
+        <Abstract>
+          <AbstractText>This invented prospective cohort followed 1,200 simulated patients. Findings were reported as higher in the fictional older group. Results cannot be generalized beyond this simulated clinic.</AbstractText>
+        </Abstract>
+        <AuthorList>
+          <Author><CollectiveName>Synthetic Study Group</CollectiveName></Author>
+        </AuthorList>
+      </Article>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList><ArticleId IdType="pubmed">90000003</ArticleId></ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
